@@ -1,1 +1,1 @@
-Git first day
+First day of coding 
